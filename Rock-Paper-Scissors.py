@@ -17,8 +17,11 @@ while True:
     # rock: 0, paper: 1, scissors: 2
     computer_pick = options[random_number]
     print("Computer picked", computer_pick + ".")
+    # If both picked the same option, it's a draw and no points are awarded
+    if user_input == computer_pick:
+        print("Draw")
 
-    if user_input == "rock" and computer_pick == "scissors":
+    elif user_input == "rock" and computer_pick == "scissors":
         print("You won!")
         user_wins += 1
 
