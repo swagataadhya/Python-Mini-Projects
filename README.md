@@ -3,3 +3,4 @@ Python mini projects for understanding all the concept / fundamentals from depth
 
 1. Rock-Paper-Scissors
 2. Guess-the-Number
+3. Password-generator
