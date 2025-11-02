@@ -5,3 +5,4 @@ Python mini projects for understanding all the concept / fundamentals from depth
 2. Guess-the-Number
 3. Password-generator
 4. Youtube-video-downloader
+5. Speed-typing-test
